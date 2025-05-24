@@ -115,3 +115,6 @@ This service needs a restart because it is dependent on schema, After loading sc
 ```
 systemctl restart shipping
 ```
+```
+netstat -lntp
+```
