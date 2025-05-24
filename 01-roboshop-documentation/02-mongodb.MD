@@ -43,3 +43,6 @@ Restart the service
 ```
 systemctl restart mongod
 ```
+```
+netstat -lntp
+```
