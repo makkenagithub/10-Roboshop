@@ -25,3 +25,6 @@ systemctl enable redis
 ```
 systemctl start redis
 ```
+```
+netstat -lntp
+```
