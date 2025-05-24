@@ -82,3 +82,6 @@ Restart Nginx Service to load the changes of the configuration.
 ``` 
 systemctl restart nginx 
 ```
+```
+netstat -lntp
+```
