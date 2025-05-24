@@ -94,3 +94,6 @@ systemctl enable payment
 ```
 systemctl start payment
 ```
+```
+netstat -lntp
+```
