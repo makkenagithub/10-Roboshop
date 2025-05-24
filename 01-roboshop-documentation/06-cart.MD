@@ -91,3 +91,6 @@ systemctl enable cart
 ```
 systemctl start cart
 ```
+```
+netstat -lntp
+```
