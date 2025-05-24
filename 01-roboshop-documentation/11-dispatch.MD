@@ -75,3 +75,6 @@ Start the service.
 systemctl enable dispatch 
 systemctl start dispatch
 ```
+```
+netstat -lntp
+```
